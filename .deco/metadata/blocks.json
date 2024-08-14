@@ -180,5 +180,21 @@
   "/.deco/blocks/Preview%20%2Fsections%2FImages%2FCarousel.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Images/Carousel.tsx"
+  },
+  "/.deco/blocks/deco-vtex.json": {
+    "blockType": "apps",
+    "__resolveType": "site/apps/deco/vtex.ts"
+  },
+  "/.deco/blocks/pages-Campanha%2520de%2520Google%2520Shopping-712496.json": {
+    "name": "Campanha de Google Shopping",
+    "path": "/google-shopping",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-SOMA-896297.json": {
+    "name": "SOMA",
+    "path": "/soma",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
   }
 }

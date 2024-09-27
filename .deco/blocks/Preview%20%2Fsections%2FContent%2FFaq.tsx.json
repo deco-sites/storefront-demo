@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/sections/Content/Faq.tsx",
+  "questions": [],
+  "contact": {
+    "link": {
+      "bruno": false
+    }
+  }
+}

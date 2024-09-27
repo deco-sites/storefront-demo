@@ -1,0 +1,13 @@
+{
+  "__resolveType": "site/sections/NewSectionGluo.tsx",
+  "toDoTasks": [
+    {
+      "title": "Gluo",
+      "description": "Hire deco",
+      "responsible": "Jaime",
+      "color": "Red"
+    }
+  ],
+  "doingTasks": [],
+  "doneTasks": []
+}
